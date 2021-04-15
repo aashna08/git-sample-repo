@@ -1,0 +1,2 @@
+git command 1
+git command 2 git command 3

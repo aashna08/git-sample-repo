@@ -1,3 +1,4 @@
 git command 1
 git command 2
+changes made by private branch 1
 changes made by private branch 2
